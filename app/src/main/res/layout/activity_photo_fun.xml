@@ -9,7 +9,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text="Hello Michael and Luke!"
+        android:textSize="60dp"
         android:id="@+id/textView"
         tools:layout_constraintRight_creator="1"
         tools:layout_constraintBottom_creator="1"
@@ -28,9 +29,9 @@
         tools:layout_constraintBottom_creator="1"
         app:layout_constraintBottom_toTopOf="@+id/textView"
         tools:layout_constraintLeft_creator="1"
-        android:layout_marginBottom="199dp"
+        android:layout_marginBottom="81dp"
         app:layout_constraintLeft_toLeftOf="@+id/textView"
-        android:layout_marginLeft="37dp" />
+        android:layout_marginLeft="14dp" />
 
     <android.support.constraint.Guideline
         android:layout_width="wrap_content"
